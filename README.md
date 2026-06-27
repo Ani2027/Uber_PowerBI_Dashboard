@@ -1,3 +1,7 @@
+## DEmo Video
+![Watch the Demo]([https://youtu.be/YOUR_VIDEO_ID](https://github.com/user-attachments/assets/055871a8-5574-4f0e-92cc-f0c81b404528))
+
+
 ## 📸 Screenshots
 
 Here is a glimpse of Dashboard:

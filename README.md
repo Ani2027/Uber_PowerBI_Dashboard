@@ -1,6 +1,6 @@
 ## Demo Video
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/eec05310-3c92-4de6-bf53-351e9507c392">
+  <a href="https://github.com/user-attachments/assets/055871a8-5574-4f0e-92cc-f0c81b404528">
     <img src="Screenshots/Home.png" width="500" alt="Watch Demo">
   </a>
   <br>
